@@ -2,7 +2,7 @@
 
 **Junior developer | Študent računalništva**  
  Trenutno se učim:  JavaScript, CSS, HTML, Tailwind  
- Cilj: graditi uporabne projekte in sodelovati v odprti kodi
+ Cilj: nadgraditi moje znanje se kaj novega naučiti mogoče tudi kaj narest
 
 ## Osebno
 - V prostem času rad tečem
