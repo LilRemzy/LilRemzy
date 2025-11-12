@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Živjo! Sem Rene 
 
-<!--
-**LilRemzy/LilRemzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior developer | Študent računalništva**  
+ Trenutno se učim:  JavaScript, CSS, HTML, Tailwind  
+ Cilj: graditi uporabne projekte in sodelovati v odprti kodi
 
-Here are some ideas to get you started:
+## Osebno
+- V prostem času rad tečem
+- Rad poslušam muziko
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekti
+- [Moj prvi projekt](https://github.com/janez-novak/moj-prvi-projekt)
+
+## Kontakt
+- Email: remzy072@gmail.com
+
+> Če želiš, mi pusti ⭐ na mojem projektu! ⭐
