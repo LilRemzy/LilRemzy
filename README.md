@@ -9,7 +9,7 @@
 - Rad poslušam muziko
 
 ## Projekti
-- [Moj prvi projekt](https://github.com/janez-novak/moj-prvi-projekt)
+- [Moj prvi projekt](https://github.com/LilRemzy/Youtube-clone-HTML-CSS)
 
 ## Kontakt
 - Email: remzy072@gmail.com
