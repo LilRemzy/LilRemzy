@@ -84,3 +84,44 @@
 <p align="center">
   ⭐ Hvala, ker si si vzel čas in pogledal moj projekt!
 </p>
+
+
+<h3 align="center">
+  👋 Živjo! Dobrodošel na mojem GitHub profilu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com
+    ?lines=Živjo!;Sem+Rene;Junior+Developer;Učim+se+Web+Developmenta
+    &font=Fira+Code
+    &center=true
+    &width=500
+    &height=45
+    &color=38BDF8
+    &vCenter=true
+    &size=22">
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LilRemzy&theme=radical&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilRemzy&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilRemzy&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/age/20/05/2008?style=for-the-badge&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/views?id=LilRemzy.Profile&style=for-the-badge&color=purple" />
+</p>
+
