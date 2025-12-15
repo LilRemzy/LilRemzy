@@ -42,6 +42,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github&theme=light" />
+</p><br>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilRemzy&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
@@ -65,6 +67,9 @@
   <img src="https://img.shields.io/github/stars/LilRemzy/Dynamic-badges?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/LilRemzy/Dynamic-badges?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+</p>
+<br>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=LilRemzy&theme=radical&show_icons=true&hide_border=true"/>
 </p>
 
