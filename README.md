@@ -116,12 +116,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilRemzy&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://dynamic-badges.maxalpha.repl.co/age/20/05/2008?style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://dynamic-badges.maxalpha.repl.co/views?id=LilRemzy.Profile&style=for-the-badge&color=purple" />
-</p>
-
