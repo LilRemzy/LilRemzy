@@ -86,11 +86,6 @@
 </p>
 
 
-<h3 align="center">
-  👋 Živjo! Dobrodošel na mojem GitHub profilu
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com
     ?lines=Živjo!;Sem+Rene;Junior+Developer;Učim+se+Web+Developmenta
@@ -105,14 +100,37 @@
 
 <br />
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LilRemzy&theme=radical&show_icons=true&hide_border=true"/>
 </p>
 
+<!-- Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilRemzy&theme=radical&hide_border=true"/>
 </p>
 
+<!-- Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilRemzy&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<!-- Age -->
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/age/20/05/2008?style=for-the-badge&color=blue" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/views?id=LilRemzy.Profile&style=for-the-badge&color=purple" />
+</p>
+
+<!-- GitHub Score / Grade -->
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/score/LilRemzy" />
+</p>
+
+<!-- Dynamic-badges Repo Views -->
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/views?id=LilRemzy.Dynamic-badges&style=for-the-badge&color=green" />
 </p>
