@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tehnologije
+## 🛠️ Leanguages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github&theme=light" />
@@ -49,8 +49,7 @@
 ## 📦 Projekti
 
 ### 🔹 Moj prvi projekt
-- 🌱 Prvi koraki v svet spletnega razvoja
-- 🧩 Uporabljene tehnologije: HTML, CSS, JavaScript
+- 💻 [Pojekt za solo](https://github.com/LilRemzy/Projekt-za-solo)
 - ⭐ Če ti je projekt všeč, pusti zvezdico!
 
 ---
