@@ -75,8 +75,8 @@
 
 ## 🔗 Povezave
 
-- 🌍 **Moja GitHub Pages stran**
-- 💻 **Repozitorij tega projekta**
+- 🌍 [Moja GitHub Pages stran](https://LilRemzy.github.io)
+- 💻 [Repozitorij tega projekta](https://github.com/LilRemzy/Projekt-za-solo)
 
 ---
 
