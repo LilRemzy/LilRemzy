@@ -64,7 +64,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/LilRemzy/Dynamic-badges?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/LilRemzy/Dynamic-badges?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
 </p>
