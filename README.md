@@ -90,3 +90,4 @@
 <p align="center">
   ⭐ Hvala, ker si si vzel čas in pogledal moj projekt!
 </p>
+![Trophy](https://dynamic-badges.maxalpha.repl.co/score/Jaysmito101)
