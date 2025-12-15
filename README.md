@@ -82,3 +82,38 @@
 <p align="center">
   ⭐ Hvala, ker si si vzel čas in pogledal moj projekt!
 </p>
+
+<h1 align="center">🏷️ Dynamic Badges</h1>
+
+<p align="center">
+  Dinamične in interaktivne značke za GitHub profile in README datoteke
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LilRemzy/Dynamic-badges?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/LilRemzy/Dynamic-badges?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+</p>
+
+
+---
+
+## 👋 O projektu
+
+**Dynamic-badges** je projekt, ki omogoča ustvarjanje:
+- ⭐ interaktivnih star rating značk
+- 👁️ view counter značk
+- 🎲 naključnih programerskih meme slik
+- 🎨 animiranega SVG besedila
+- 🏆 GitHub trophy / score značk
+.
+---
+
+## ⭐ Star Rating (Interaktivno)
+
+### Vnos ocene
+```html
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=USERNAME&repo=Dynamic-badges&id=1">
+  <img src="https://dynamic-badges.maxalpha.repl.co/star?image=true">
+</a>
+
