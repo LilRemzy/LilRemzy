@@ -86,17 +86,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-    ?lines=Živjo!;Sem+Rene;Junior+Developer;Učim+se+Web+Developmenta
-    &font=Fira+Code
-    &center=true
-    &width=500
-    &height=45
-    &color=38BDF8
-    &vCenter=true
-    &size=22">
-</p>
 
 <!-- GitHub Stats -->
 <p align="center">
