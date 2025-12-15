@@ -84,6 +84,3 @@
 <p align="center">
   ⭐ Hvala, ker si si vzel čas in pogledal moj projekt!
 </p>
-
-
-<h3 align="center"> Welcome to Jaysmito's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3> <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%3BI%20am%20Jaysmito%3BMaking%20Game%20Engines%20and%203D%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"> </p> <br /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jaysmito101&theme=radical&show_icons=true&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaysmito101&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysmito101&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://dynamic-badges.maxalpha.repl.co/age/12/08/2004" /> </p>
