@@ -40,7 +40,7 @@
 
 ## 🛠️ Leanguages
 
-<p >
+<p align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github&theme=light" />
 </p><br>
 <p align="center">
